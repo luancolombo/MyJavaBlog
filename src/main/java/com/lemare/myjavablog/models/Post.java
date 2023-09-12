@@ -11,7 +11,7 @@ import java.time.LocalDate;
 public class Post {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private long id;
     @NotBlank
     private String title;
     @NotBlank
@@ -22,11 +22,11 @@ public class Post {
     @Lob
     private String text;
 
-    public Long getId() {
+    public long getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(long id) {
         this.id = id;
     }
 
