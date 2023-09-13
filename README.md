@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-É um projeto de Blog Pessoal com Java e Springboot, nesse projeto utilizamos o Thymeleaf para renderizar as paginas em html e css qque foram criadas com ajuda do Bootstrap.
+É um projeto de Blog Pessoal com Java e Springboot, nesse projeto utilizamos o Thymeleaf para renderizar as paginas em html e css que foram criadas com ajuda do Bootstrap.
 Por ser um projeto ja renderizado no próprio java, não necessita executar um front end, apenas executando essa aplicação java o blog ja está funcional e podendo ser editado e
 aprimorado de acordo com as necessidades do usuário.
 
